@@ -1,12 +1,5 @@
 # Project Structure
-.
-├── infrastructure
-│      ├── main.tf
-│      ├── terraform.tfvars.example
-│      ├── provider.tf
-│      ├── variables.tf
-│      ├── outputs.tf
-│      └── README.md
+
 
 - `main.tf`: The main Terraform configuration file
 - `variables.tf`: The input variables for the Terraform configuration
