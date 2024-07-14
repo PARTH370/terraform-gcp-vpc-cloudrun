@@ -1,0 +1,9 @@
+gcp_svc_key = "******" # This is the service account key file
+gcp_project = "******" # This is the GCP project ID
+gcp_region = "******" # This is the GCP region
+vpc_name        = "******" # This is the VPC name
+vpc_cidr        = "******" # This is the VPC CIDR
+subnet_cidrs    = ["*****", "****", "*****"] # These are the subnet CIDRs
+service_name    = "******" # This is the Cloud Run service name
+container_image = "******" # This is the container image
+memory_limit    = "******" # This is the memory limit
